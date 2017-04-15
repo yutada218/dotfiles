@@ -1,0 +1,10 @@
+[user]
+	name = Yuta Tada
+	email = yutada218@gmail.com
+[color]
+	uii = true
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	ci = commit
