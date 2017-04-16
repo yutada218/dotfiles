@@ -9,7 +9,7 @@ fi
 alias ll='ls -lG'
 alias ld='ls -ldG'
 alias la='ls -laG'
-alias ssh='ssh -o StrictHostKeyChecking=no'$
+#alias ssh='ssh -o StrictHostKeyChecking=no'$
 
 # VPS ssh settings ##########
 ## sakura ###################
